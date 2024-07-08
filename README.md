@@ -1,2 +1,2 @@
 # bash_calcul_repo
-This repo contains a bash script for calculutor
+This Bash script provides a simple command-line calculator. It supports basic arithmetic operations such as addition, subtraction, multiplication, and division.
